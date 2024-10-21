@@ -39,9 +39,9 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "lavalinkv3-id.serenetia.com",
+        host: "node.lewdhutao.my.eu.org",
         port: 80,
-        password: "BatuManaBisa",
+        password: "youshallnotpass",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
